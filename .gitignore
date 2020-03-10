@@ -1,1 +1,5 @@
 .DS_Store
+venv/*
+data/*
+
+embeddings-10k.json
